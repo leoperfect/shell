@@ -3,6 +3,7 @@
 2. `java -jar shell-0.0.1-SNAPSHOT.jar`启动并进入shell
 3. 执行`init project --groupId=xxx --artifactId=xxx --type=maven`生成项目
 4. `quit`退出
+5. 将demo项目导入idea中
 
 效果图如下：
 ![](https://github.com/leoperfect/shell/blob/master/img.jpg)
