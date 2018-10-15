@@ -5,4 +5,4 @@
 4. `quit`退出
 
 效果图如下：
-![](https://github.com/leoperfect/shell/img.jpg)
+![](https://github.com/leoperfect/shell/blob/master/img.jpg)
